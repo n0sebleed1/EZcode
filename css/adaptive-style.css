@@ -1,0 +1,198 @@
+	@media screen and (max-width: 1024px) {
+
+	.header {
+		width: 100%;
+	}
+
+	.header-logo {
+		max-width: 100px;
+		max-height: 56px;
+		background-size: cover;
+		margin: 28px 0 8px 50px;
+	}
+
+	.header-nav {
+		margin: 38px 50px 38px auto;
+		font-size: 16px;
+	}
+
+	.header-nav-button {
+		margin: 0 10px 0 10px;
+	}
+
+	.baner-left-content {
+		padding: 265px 0 265px 0;
+	}
+
+	.baner-right-content {
+		padding: 150px 0 150px 0;
+	}
+
+	.baner-name {
+		font-size: 32px;
+	}
+
+	.baner-text {
+		font-size: 24px;
+		width: 500px;
+	}
+
+	.baner-img {
+		width: 450px;
+		height: 450px;
+	}
+
+	.container {
+		max-width: 950px;
+	}
+
+	.about-block-img {
+		max-width: 400px;
+	}
+
+	.about-block-text {
+		font-size: 26px;
+		max-width: 500px;
+	}
+
+	.footer-block {
+		max-width: 1024px;
+	}
+
+	.error {
+		left: 65%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+
+	.header-logo {
+		max-width: 75px;
+		max-height: 42px;
+	}
+
+	.baner-left-content {
+		padding: 265px 0 265px 20px;
+	}
+
+	.baner-right-content {
+		padding: 200px 0 200px 50px;
+	}
+
+	.baner-name {
+		font-size: 24px;
+	}
+
+	.baner-text {
+		font-size: 20px;
+		max-width: 400px;
+	}
+
+	.baner-img {
+		max-width: 300px;
+		max-height: 300px;
+	}
+
+	.container {
+		max-width: 450px;
+	}
+
+	.courses-list-show {
+		height: 4000px;
+		transition: 0.5s;
+	}
+
+	.about-block-img {
+		max-width: 200px;
+	}
+
+	.about-block-text {
+		font-size: 14px;
+		max-width: 250px;
+	}
+
+	.reviews-list {
+		height: 235px;
+	}
+
+	.reviews-block {
+		margin: 0 0 50px 0;
+	}
+
+	.footer-block {
+		max-width: 768px;
+		font-size: 14px;
+	}
+
+	.error {
+		left: 47%;
+	}
+}
+
+@media screen and (max-width: 480px) {
+
+	.header {
+		display: flex;
+	}
+
+	.header-logo {
+		margin: 8px 0 8px 10px;
+	}
+
+	.header-nav {
+		margin: 42px 5px 42px auto;
+		font-size: 12px;
+	}
+	
+	.header-nav-button {
+		margin: 0 3px 0 3px;
+	}
+
+	.baner-left-content {
+		padding: 100px 0 100px 10px;
+	}
+
+	.baner-right-content {
+		padding: 70px 0 70px 10px;
+	}
+
+	.baner-name {
+		font-size: 18px;
+	}
+
+	.baner-text {
+		font-size: 14px;
+		max-width: 250px;
+	}
+
+	.baner-img {
+		max-width: 200px;
+		max-height: 200px;
+	}
+
+	.courses-list {
+		max-height: 1694px;
+	}
+
+	.answers-list-block-question {
+		font-size: 24px;
+	}
+
+	.footer-block {
+		max-width: 480px;
+		font-size: 12px;
+	}
+
+	.footer-logo {
+		display: none;
+	}
+
+	.error {
+		left: 30%;
+	}
+
+	.contacts-block {
+		position: relative;
+		margin: 0 auto;
+	}
+}
